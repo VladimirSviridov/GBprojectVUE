@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GB-project VUE.iml" filepath="$PROJECT_DIR$/.idea/GB-project VUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gbvue.iml" filepath="$PROJECT_DIR$/.idea/gbvue.iml" />
     </modules>
   </component>
 </project>
